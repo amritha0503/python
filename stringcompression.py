@@ -4,5 +4,3 @@ textlist=list(textlower)
 count=1
 
 for i in range(0,len(textlist)):
-  
-
