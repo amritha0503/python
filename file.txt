@@ -1,0 +1,6 @@
+c++,10
+java,22
+python,24
+c#,8
+php,16
+javascript,14

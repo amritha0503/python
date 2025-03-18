@@ -1,0 +1,6 @@
+rent 10000
+gas 2000
+food 5000
+clothing 10000
+car_payment 4000
+travel 9000
