@@ -7,3 +7,5 @@ plt.xlabel('Height')
 plt.ylabel('Frequency')
 plt.title('histogram of students heights')
 plt.show()
+
+
